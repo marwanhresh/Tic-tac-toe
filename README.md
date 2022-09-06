@@ -5,3 +5,4 @@ Therefore, tic-tac-toe is often played by young children who may not have discov
 Tic Tac Toe is a 3,3,3 game. [3] Harary’s generalized tic-tac-toe is a broader generalization of tic-tac-toe. It can also be generalized as an nd game, specifically a game where n equals 3 and d equals 2. [4] It can be generalized further by using any associative structure where rows are lines and cells are points. The occurrence structure of tic-tac-toe chess consists of nine points, three horizontal lines, three vertical lines and two diagonal lines, and each line consists of at least three points.
 
 file:///C:/Users/USER1/Downloads/Screenshot%202022-09-06%20170418.png
+![Screenshot 2022-09-06 170418](https://user-images.githubusercontent.com/62513189/188656480-cb24ad8a-048e-4a8c-967b-b37be29e9563.png)
